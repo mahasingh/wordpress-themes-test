@@ -1,0 +1,28 @@
+/*
+Theme Name: Plant
+Theme URI: https://th.seedthemes.com/item/plant/
+Author: SeedThemes
+Author URI: https://SeedThemes.com
+Description: Multipurpose Theme
+Version: 1.4.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: plant
+Tags: featured-images, custom-menu
+*/
+
+/*
+===========================================
+
+This theme use SCSS, please find at 
+
+	/plant/css/scss/style.scss
+	/plant/css/scss/boostrap4/bootstrap4.scss
+	
+It will be compiled to 
+
+    /plant/css/bootstrap4.min.css
+    /plant/css/style.min.css
+    
+=========================================== 
+*/
